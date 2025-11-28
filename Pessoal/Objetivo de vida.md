@@ -1,0 +1,23 @@
+- O que vou fazer com a minha a minha vida !
+	- Ajudar os meus filhos a ser tonarem adultos.
+	- Trabalhar para a Gringa.
+	- Morar em lugar cercado pela natureza sem vizinhos por perto.
+	- Parar de sobreviver mês a mês e começar a viver com a minha família. 
+	- Me Tornar um Pequeno Jesus.
+- Como Vou pavimentar essa jornada !
+	- Básico
+		- Disciplina. 
+			- Sem disciplina não vou chegara a lugar nenhum.
+				- Começar como uma agenda, diária.
+		- Saúde.
+			- Sem saúde não minhas opções são menores.
+			- Academia, não tem como fugir.
+		- Controlar as minhas financias.
+			- Mapear as minhas despesas e traçar uma estratégia para os próximos anos.
+		- Dominar as ferramentas de sustentam a minha família.
+			- Inglês.
+				- Tomar vergonha na cara.
+			- Python
+			- Comunicação 
+			- Django
+			- DEVOPS

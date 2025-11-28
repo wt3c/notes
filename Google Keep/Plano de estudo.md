@@ -1,0 +1,31 @@
+---
+tags:
+  - Keep/Label/Learn
+---
+
+
+- [ ] Python Mock
+- [ ] PyTest
+- [ ] Sistema de autenticação Django
+- [ ] https://docs.djangoproject.com/pt-br/4.0/topics/auth/default/#groups
+- [ ] https://jwt.io/
+- [ ] https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Authentication
+- [ ] https://www.youtube.com/watch?v=IQChZigj3Yk
+- [ ] https://django-portuguese.readthedocs.io/en/1.0/topics/auth.html
+- [ ] https://github.com/macropin/django-registration
+- [ ] https://django-registration-redux.readthedocs.io/en/latest/
+- [ ] http://pythonclub.com.br/solucao-quase-definitiva-para-permissoes-em-projetos-django.html
+- [ ] https://www.django-rest-framework.org/tutorial/4-authentication-and-permissions/
+- [ ] Sistema de autenticação Django Rest Framework
+- [ ] https://www.django-rest-framework.org/api-guide/authentication/
+- [ ] https://www.django-rest-framework.org/tutorial/4-authentication-and-permissions/
+- [ ] https://www.youtube.com/watch?v=IQChZigj3Yk
+- [ ] https://www.youtube.com/watch?v=BCGKmOA7N_o
+- [ ] https://www.youtube.com/watch?v=LFV4MLe0ZzM
+- [ ] https://medium.com/@renatojlelis/adicionando-autentica%C3%A7%C3%A3o-por-token-no-django-rest-framework-c3b8d6921bf7
+- [ ] https://medium.com/@hudsonbrendon/autentica%C3%A7%C3%A3o-com-jwt-no-django-rest-framework-45626936c276
+- [ ] https://acervolima.com/autenticacao-jwt-com-django-rest-framework/
+- [ ] https://ichi.pro/pt/django-rest-framework-e-spa-autenticacao-de-sessao-com-docker-e-nginx-187348740417997
+- [ ] https://www.jetbrains.com/pycharm/guide/tutorials/django-aws/rest-api-jwt/?source=google&medium=cpc&campaign=14124046227&gclid=Cj0KCQiAxc6PBhCEARIsAH8Hff39N5mU5WfhCoD_r6yAQSaPeADUCTc1vZW5nMEmwcailsWJtHDXqa4aArI9EALw_wcB
+- [ ] SQL - CONSULTA - ** SER MASTER FODA PRA CARALHO, PORRA **
+- [ ] SQL for Data Analytics - Driver

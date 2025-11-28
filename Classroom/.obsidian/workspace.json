@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "2d0f671a9efb7ea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c71689f2bd2da3cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e328c34e294d5983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Doc_official/8. Errors and Exceptions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cbbc1ecc7d425ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6acbe0bd316522fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9432a38283d3e220",
+    "type": "split",
+    "children": [
+      {
+        "id": "bac6a76a228c1ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f2c9084cd151939",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c89d13072328dbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee64609531c06390",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27a39d2974305163",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cb5080cedadf65b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "640effddefd181ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fde96db76d9ae3a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c852e97f86adf35f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c282a2a187295f59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "6acbe0bd316522fa",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Readme.md",
+    "Pycharm/Atalhos.md",
+    "Pycharm",
+    "Python/5. Data Structures.md",
+    "Python/Doc_official/The initialization of the sys.path module search path.md",
+    "Python/Doc_official/sys.md",
+    "Python/Doc_official/n1256.pdf",
+    "Python/Doc_official/6. Modules.md",
+    "Python/Doc_official/7. Input and Output.md",
+    "Python/Doc_official/8. Errors and Exceptions.md",
+    "Python/Doc_official/5. Data Structures.md",
+    "Python/Doc_official",
+    "Python",
+    "Data",
+    "2023-11-29.md"
+  ]
+}

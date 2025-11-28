@@ -1,0 +1,33 @@
+- # [Serie do Eduardo Mendes](https://www.youtube.com/watch?v=9mifCIFhtIQ&list=PLOQgLBuj2-3IL2SzHv1CHaBBHJEvHZE0m)
+	-  ## Introdução a observabilidade com OpenTelemetry | Live de Python [#261](https://www.youtube.com/hashtag/261)
+		
+		- ### Referências
+			- **Links importantes Doses de telemetria**:    [![](https://www.gstatic.com/youtube/img/watch/yt_favicon.png) / @dosedetelemetria](https://www.youtube.com/@DoseDeTelemetria)  
+			- Explorando-observabilidade (Cassio): [https://github.com/cassiobotaro/explo...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa19xeTZiY0JlR3FCZi1sOTl4WS1pNXNxSFgzZ3xBQ3Jtc0tuYXV6TE1ieWZ6MlB0amxCRnIyTGdXTEtnbGptZVJObWxzVDU0dXZOeUJKd1ZVeXhMQzhlbWlDS3B5MHAzdVZEcXNIdjdtS1hFMDF3T2J1T0w5V0ZkRGRWZ2RkWXhMWG9BV0FqczYxbGVMbHRkSE83dw&q=https%3A%2F%2Fgithub.com%2Fcassiobotaro%2Fexplorando-observabilidade&v=9mifCIFhtIQ) 
+			- Observability Engineering (Livro): [https://www.oreilly.com/library/view/...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbV9oQ2lsdW9pOWMySkZMMTA4SVNWY1MzbDlfd3xBQ3Jtc0tuRFhLUjFaV3JWYXFzVnRkVXFmUTF4WUVHR3BkZkZJR2wzdFh2WjJFbHNSR2lrd1BzT3h5T2pCNW1xVXFSZ3lKeGdwZFFlSGxpWVdQaXUxdlI0RGlCWEt1Rm9CcG04TEF2a1c0N3I5dF9QcDN0ckp1TQ&q=https%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Fobservability-engineering%2F9781492076438%2F&v=9mifCIFhtIQ) 
+			- o11y news: [https://o11y.news/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVVVMnBRLTNmNjlYdGR3Q0JFdkl2RlVpUDhRQXxBQ3Jtc0treldVU0xPRXJlZVlfQlprZTJWLWtKdDk5bGp4eVlmaTItN05Jb1ZEdmlaa2huaGtHSGROTVhSSWxWcmFrUFoyYmFlXzNhMUM2dVM0Y0xMbnltQk96dUJLVHlPV1I1Y1d2cU4tTGxnd3MxODI5VXcxaw&q=https%3A%2F%2Fo11y.news%2F&v=9mifCIFhtIQ)
+			- Código e Slides: [https://github.com/dunossauro/live-de...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHlwZDl1QjgtV2dkbWtjZjVNdXRyTE9mRHk3UXxBQ3Jtc0trUEF5eUpKX2MwWFVZNmhLS3huckExaVZIR1VsbWxiVkFWbzFEczUtcmtkMUY4T2pmM0FvVVM5WkpzeTEyTzZJN2lSTFhZX1RReWRUc3FyNUZrdXZpYmlYaEFSaWF1cGVaR2VaYkpoeHVBMEtBRDUxRQ&q=https%3A%2F%2Fgithub.com%2Fdunossauro%2Flive-de-python&v=9mifCIFhtIQ)
+			
+			- **Opentelemetry Opentelemetry**: [https://opentelemetry.io/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2FxR2YyX3R3UnNBcmNDdEVkWFVHX18ycW50UXxBQ3Jtc0trUm1ldlJFWkQ5RGpfaHZkelVwWVJvdzE3Um9jVzZMVUFNU1VIR0RLSlEwOThfLTMyd0EybFhOcG9wSXFKMUJLVFo0VGdadVBaT0NjYVBpMThWU05lRGlwTEJlRzJNTXpCdldNVVJReDBNZlpKczZSVQ&q=https%3A%2F%2Fopentelemetry.io%2F&v=9mifCIFhtIQ) 
+			- **Documentação Opentelemetry**: [https://opentelemetry.io/docs/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGtBeEtkWG1tdTFkVnhPdmprRm1fU2NGN21hd3xBQ3Jtc0ttdEF4cXcyUk5kOXU4em1RN3BySXF3REFYLVVsclU1NmhVc1hjbHduN0pkRGJTOVdlT3ZNZ01NVUJjS3R4UUZSUE5JcUJYXzlTczRrdU5zOWVGMFhqWm9ETHJtT0R5Wk9mSE1ZWGNmbkJQZi1kSE55RQ&q=https%3A%2F%2Fopentelemetry.io%2Fdocs%2F&v=9mifCIFhtIQ) 
+			- **Opentelemetry Python doc**: [https://opentelemetry.io/docs/languag...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHRhYlFDbVVuOTBYRVA3REhKdXB1NlFOMnpRZ3xBQ3Jtc0trcmd1QVBkTVN0NkhfM0FtQmthckowSS02T1RjWEIwSDhQTkVYLVBHWWVPSnlBRl9RR1M2U1lMUEd2RGZ0MHJVNXRSSXM0YjhqS2RhcWo2ZjhVV0ZiOG9UaTYzSDZHUGpWSlNkTk45MVhSbHNJcWU5MA&q=https%3A%2F%2Fopentelemetry.io%2Fdocs%2Flanguages%2Fpython%2F&v=9mifCIFhtIQ) 
+			- **Python Opentelemetry contrib**:  [https://opentelemetry-python-contrib....](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqay03dDVlbGZNcmNGZjNFTW44V05nR3FfX2F5d3xBQ3Jtc0trREdvRlRwcUZidFZnek5yQXhJUE9zd1A0cHRkR1dIOTVMb1VORXFmZFBIM1RUeE41S1VvWkFCV0FXaHM5eXEtWS1aTXR1UUZSeVpsMGZBN3FPTW5yYkphWjhSb0tfNkFleGRuQzdaNGlvZnU0d1F3UQ&q=https%3A%2F%2Fopentelemetry-python-contrib.readthedocs.io%2Fen%2Flatest%2F&v=9mifCIFhtIQ) 
+			- **Opentelemetry Collector**: [https://opentelemetry.io/docs/collector/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm9ySTZNNUdpckRfM3N5OWNjMFJNYWZmTU9PZ3xBQ3Jtc0trTWg1RWtoeXBpUVh4R3hjM1JmakJ5MUk2NXR1d1pzWnM5RUdfX2lVUnN2ZFV1RHUtY0R3U21QMkZPU0ZwZjBiLTFUR2ZGYU1OdFEzdHRQTFlTUjlsRHZ3M3lNMC1GN1UzREZlX2FMUGxsZGR1VDF0Yw&q=https%3A%2F%2Fopentelemetry.io%2Fdocs%2Fcollector%2F&v=9mifCIFhtIQ) 
+			- **Agente Python**: [https://opentelemetry.io/docs/languag...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmdaNXZNcm11NmdWcGZUbmJjRWRzeFlPSDdsQXxBQ3Jtc0trc2I3V21hRDFEY2ZYTlBxUnpoZS1kdDNjREFFTEctUzdOZk50NXVVWXNJQXdzeHRwTTJLc2RBZjZkM05tb3ZIY3RPTVpPdXZxUmxIWU1xOVprbEJTbjdITzBQUUxkTnBtcVBqb0NrQkhKUzVnUENsWQ&q=https%3A%2F%2Fopentelemetry.io%2Fdocs%2Flanguages%2Fpython%2Fautomatic%2Fconfiguration%2F&v=9mifCIFhtIQ) 
+	
+			- ### Libs python que usamos
+			- **HTTPX**: [https://www.python-httpx.org/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdoSDZfRjZXR3dHME1oNW5uWXRmM0xjM3VVQXxBQ3Jtc0tsLVZ5M1UzQUEtTmxJU2NleEszbDZ2RWhTNEhCV3lCWUtqZGEzUTYySEkxR2pDSzFROXdYRDNhZGpnQzhqazNoSk5xYzkxcFBKX2djeC1FMDJFMXZ4cWRuSl9rUV9mMGo3WmtuOFVwbFo0TGZDc1ZzSQ&q=https%3A%2F%2Fwww.python-httpx.org%2F&v=9mifCIFhtIQ) 
+			- Uvicorn: [https://www.uvicorn.org/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGFlaUMzcG5sSGZObjJrUE5tMmlLUEl1cHhBUXxBQ3Jtc0trNTBlM2c0a1ptQ201TkpibXlyNmlVOVlDcmJPUkQxUXcyMjVTdktPZXRiYkdtOF9RWEMtTFFtNFc4SkJIZURYWVNiRTNZQjZPeEZDaGVGdDdIVmFIYWdmN0tPeWxESk5oeVVMU0FpYUQ0N0dJSGhEWQ&q=https%3A%2F%2Fwww.uvicorn.org%2F&v=9mifCIFhtIQ) 
+			- **FastAPI**: [https://fastapi.tiangolo.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0ZibFRia2t2aTJtY3hVRDMxdE9FUVZWdmlqUXxBQ3Jtc0tsd0pVLUlWS0g4aE9Kc1NfREZndkp3akstMEZLYmVhZkpEYVZQMnA0RUVpYnZOZlNQT09iYjdCOFVua19rY2hGNVZVME5seDlsZ2JyWGZEU2VtRnl1S1M3d0QxcjktR0NOR1BjS2JjY2xuenlvT21kaw&q=https%3A%2F%2Ffastapi.tiangolo.com%2F&v=9mifCIFhtIQ) 
+			- SQLAlchemy: [https://www.sqlalchemy.org/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHRta05zaWZodjZyVmJteXllRDBvYS1DeENUQXxBQ3Jtc0tsYjZnOEQxQWhEM2N4YXhUVmR3Q1hKNDZUdUx5SUJKNExTNldCa1BtMXNHR1pkLVpIbm1wM2F4YmNXYkV4UDdrRk11YmF3RGlldGlfcWRHcTN5V29CazR5cnpoZUFtWmo4SVRqYWt3cUhDWlRvd3NUZw&q=https%3A%2F%2Fwww.sqlalchemy.org%2F&v=9mifCIFhtIQ)
+		- ## Notas
+			- Com a Telemetria, podemos responder as seguintes perguntas sobre as nossas aplicações: 
+				- Quais perguntas eu tenho que fazer ?
+				- A minha aplicação ainda esta em pé ?
+				- Quantas requisições a minha aplicação recebeu em um período de tempo ?
+				- A aplicação teve algum error em um determinado período ?
+				- Qual a latência entre as requisições ?
+				- ![[Pasted image 20241007142934.png]]
+			
+
+

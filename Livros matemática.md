@@ -1,0 +1,15 @@
+
+- Fundamentos de matemática elementar (11 livros).
+- Manual compacto de matemática.
+- Curso de cálculo - Volume I - Hamilton Luiz Cuidorizi.
+- Um convite à matemática - Daniel Cordeiro.
+- Geometria  Eudiana plana - João Lucas.
+- Geometria Analistica.
+- Um curso de cálculo - Volume II - Hamilton Luiz Cuidorizi.
+- Álgebra linear - Elon lages Lima.
+- Álgebra linear Exercícios  Soluções - Ralph Costa.
+- Introdução à teoria dos números - José Plino.
+- Álgebra moderna -  Hygino H. Domingues
+- Um curso de cálculo - Volume III - Hamilton Luiz Cuidorizi.
+- Probabilidade um curso moderno com aplicações.
+- 

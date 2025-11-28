@@ -1,0 +1,117 @@
+- Responsável pela base de dados é a GADG
+- Arquitetura da solução
+	- O principal entregável se trata de um motor de busca sendo carregado com conjunto de dados oriundo de diversas fontes.
+	- A solução envolve um conjunto de ferramentas de engenharia de dados que serão configuradas para trabalharem integradas, automatizando a ingestão de dados com rotinas de extração e carga centralizada. Além disso, a solução também envolve um conjunto de ferramentas de desenvolvimento de software para a construção da interface web utilizada para consultas aos dados integrados.
+- Réus
+	- O aprimoramento foi proposto no OS1
+- Solução de TI
+	- Interface de Usuário Aprimorada
+	- Expansão de Formatos de Saída
+		- Atualmente limitado a arquivos de texto (.txt), o sistema será atualizado para oferecer suporte a uma variedade de formatos de saída, como CSV e WORD.
+	- Otimização na Identificação de Réus e Temas Recorrentes
+		- Desenvolvimento de algoritmos de análise de dados mais avançados para identificar com precisão os réus mais frequentes e os temas mais recorrentes em categorias específicas. Isso pode envolver o uso de técnicas de machine learning para reconhecer padrões e tendências nos dados processuais
+	- Análise Autônoma do Banco de Dados - IA :D
+		- Implementação de uma funcionalidade que permita ao sistema Lyra realizar análises autônomas no banco de dados do Tribunal de Justiça. Esta funcionalidade buscaria alertar os usuários sobre empresas e temas emergentes nas petições iniciais, oferecendo assim insights proativos e oportunos
+	- Sprint1
+		- Itens da Demanda
+			- Módulo Filtros			
+				- Cadastrar Filtro
+				- Consultar Filtro			
+				- Editar Filtro
+				- Excluir Filtro
+	- Sprint2
+		- Demanda
+			- O Projeto Lyra busca aprimorar a experiência do usuário ao interagir com filtros<br> e visualizar indicadores relevantes na plataforma. Durante a primeira sprint, foram<br>identificadas necessidades específicas relacionadas à interação com os filtros e à 
+			visualização de indicadores na home e por filtro. Nesta segunda sprint, o foco está 
+			em detalhar essas interações e em aperfeiçoar a visualização dos indicadores, 
+			garantindo que o usuário tenha à disposição ferramentas robustas para filtragem e 
+			análise de dados.
+			
+		 - Solução de TI
+			 - Desenvolvimento de UI/UX para Filtros e Resultados
+				 - Criar interfaces intuitivas para detalhamento e visualização de filtros, garantindo uma boa experiência de usuário.
+			 - Serviços de Backend
+				 - Desenvolver serviços para processamento de filtros e atualização de dados.
+			 - Implementação dos Indicadores
+				 - Criar componentes visuais para a exibição dos indicadores na home e na página de cada filtro, utilizando bibliotecas de gráficos para uma apresentação clara dos dados.
+		 - Itens da Demanda
+			 - Filtros
+				 - Atualização (Executar Filtro)
+				 - Detalhar Filtro 
+				 - Exibir Resultado (Dashboard)
+				 - Download (TXT, CSV)
+	 -  Sprint3
+		 - Demanda
+			 - Durante a primeira e segunda sprint, foram identificadas necessidades específicas relacionadas ao cadastro de filtro, execução do filtro e visualização de indicadores. Nesta terceira sprint, o foco está em aplicar a autenticação via keycloak e criar funcionalidades para melhor usabilidade do usuário, como compartilhar filtros, configurar atualizações e realizar exportação em PDF.
+		 - Solução de TI
+			 - Autenticação via Keycloak:
+				 - Integrar o sistema de autenticação do Keycloak com a aplicação
+			 - Compartilhamento de Filtros
+				 - Criar uma interface que permita aos usuários compartilharem filtros personalizados.
+			 - Configuração de Atualizações
+				 - Implementar opções de configuração para atualizações automáticas ou manuais.
+				 - Criar interfaces de usuário para configurar preferências de atualização.
+				 - Desenvolver lógica de backend para aplicar as configurações de atualização.
+			 - Exportação em PDF
+				 - Desenvolver a funcionalidade de exportação de dados em formato PDF.
+				 - Selecionar e integrar uma biblioteca de geração de PDF compatível com a tecnologia de base.
+				 - Implementar funcionalidades de seleção de dados e geração de relatórios.		 
+	 - Sprint4
+		 - Demanda
+			 - Nesta quarta sprint, o foco está em aplicar melhorias nas funcionalidades existentes e desenvolver um restaurador de consultas excluídas
+		 - Solução de TI
+			 - Restaurador de Consultas
+				 - Desenvolvimento da funcionalidade de restaurar consultas excluídas com a regra de exclusão permanente após 30 dias da exclusão logica
+			 - Home
+				 - Adicionar uma seção na página inicial para exibir um texto introdutório. Utilizar um placeholder de texto "Lorem Ipsum" até que o cliente forneça o texto final.
+				 - Criar uma seção na página inicial com um botão que direcionará para o manual de uso do sistema. Como o documento ainda não está pronto, o botão ficará sem ação.
+				 - Incluir uma seção na página inicial que direciona o usuário para a tela de gerenciamento de consultas.
+			 - Geral
+				 - Incluir paginação em todas as grids de consulta do sistema (2 grids)
+				 - Criar popup para o usuário aceitar o compartilhamento da consulta, caso o usuário não esteja logado no momento do compartilhamento, assim que o mesmo acessar, o sistema deve apresentar a popup com as opções de aceitar e rejeitar.
+			 -  Tela de Cadastrar Consulta
+				 - Incluir opção de o usuário criar, incluir e remover uma tag na consulta. (A base de dados onde será armazenada as TAGs criadas deverá ter relacionamento com o usuário que criou, ou seja, o usuário só poderá visualizar as tags criadas por ele mesmo)
+				 - Colocar em negrito o nome do arquivo importado e deixar visível até na edição
+				 - Na edição, permitir que o usuário realize o download dos arquivos anexados
+				 - Caso o usuário inclua um arquivo fora do padrão CSV, o sistema deverá alertar o usuário através de uma modal de alerta no centro da tela.
+				 - Incluir um botão chamado “Salvar e Executar” que deverá ficar disponível somente se no momento do cadastro o usuário tiver preenchido todas as informações necessárias para executar o filtro.
+			 - Tela de Pesquisar Consulta
+				 - Diferenciar filtros criados pelo usuário e compartilhados com ele (Criar abas para separaros dois)
+				 - Atualmente na opção de replicar consulta, o sistema só permite replicar consultas criadas pelo próprio usuário, agora o sistema deverá permitir replicar uma consulta que foi compartilhada com o usuário
+				 - Alterar o nome da coluna “Situação” por “Status da Consulta”
+				 - Mapear Status da Consulta e propor novos status
+				 - Inserir Ordenador na grid de consulta
+				 - Incluir coluna de data da última atualização (Em caso de nulo, colocar um traço)
+			- Tela de Detalhar Consulta
+				- Incluir uma seção de gráficos para os termos que deram match com os gráficos abaixo com um filtro chamado Classe, que deve permitir filtrar os gráficos de termos com a classe selecionada;
+					- Total de termos classificados e não classificados – Gráfico de Barras
+						- Deve trazer no eixo X o nome dos termos e no eixo Y o totalizador
+					- Porcentagem de termos classificados e não classificados – Gráfico de Barras
+						- Deve trazer no eixo X o nome dos termos e no eixo Y a porcentagem correspondente
+				- Nas informações Readonly da página, trazer a Data da última extração do TJRJ
+				- Na coluna Descrição do Processo, trazer o parágrafo em que o termo foi classificado e colocar o termo em negrito.
+				- No PDF, no conteúdo completo, trazer o parágrafo em que o termo foi classificado e colocar o termo em negrito.
+				- Otimizar o layout do PDF para caber mais processos em uma página (Ou seja, trazer as informações ao lado do título e não em baixo)
+				- No PDF, trazer somente 100 processos no arquivo, e trazer somente os processos que tiveram match em todos os termos da consulta.
+				- Alterar informações do arquivo TXT. Trazer as mesmas informações do PDF no arquivo, porém o texto deve ser na integra e não só o parágrafo em que o termo foi encontrado 
+	- Sprint5
+		- Demanda
+			- Nesta quinta sprint, o foco está em aplicar melhorias na estrutura do projeto, ou seja, nas funções de realizam a classificação de processos e na modelagem de dados.
+		- Solução de TI
+			- Otimizar Rotina de Execução dos Filtros
+				- Evitar Cálculos Redundantes: Mover cálculos ou operações constantes para fora de loops.
+				- Uso de Estruturas de Dados Eficientes: Substituir listas por conjuntos ou dicionários, para melhorar a eficiência das operações de busca e inserção.
+				- Melhoria de Algoritmos: Substituir algoritmos ineficientes por versões mais eficientes (por exemplo, substituindo uma pesquisa linear por uma pesquisa binária)
+			- Otimização de Consultas ao Banco de Dados
+				- Reduzir Número de Consultas: Agregar consultas para reduzir o número total de interações com o banco de dados. 
+				- Utilizar Consultas Parametrizadas: Melhorar a segurança e a eficiência das consultas ao banco de dados.
+				- Caching: Implementar caching para evitar consultas repetidas ao banco de dados.
+			- Paralelismo e Concurrency
+				- Utilizar bibliotecas como multiprocessing ou concurrent.futures para paralelizar tarefas que podem ser executadas simultaneamente.
+				- Garantir que a utilização de threads ou processos múltiplos não introduza condições de corrida ou outros problemas de concorrência.
+			- Uso Eficiente da Memória
+				- Otimizar o uso da memória evitando a criação desnecessária de grandes estruturas de dados.
+				- Utilizar geradores e iteradores para processar grandes volumes de dados de forma eficiente.
+			- Organização do Modelo de Dados
+				- Definir as regras de negócio que governam a manipulação dos dados, como validações, restrições e fluxos de trabalho, separando os dados e entidades que fazem sentido para o lyra, evitando o retorno e acesso a dados desnecessários.				
+
