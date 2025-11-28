@@ -1,0 +1,7 @@
+{
+  "remoteURL": "git@github.com:wt3c/notes.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
