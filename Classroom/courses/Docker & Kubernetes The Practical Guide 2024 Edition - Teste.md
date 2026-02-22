@@ -1,4 +1,4 @@
-# Section 1: Getting Started
+# Section 1: Getting Started - Teste
 
 -  Docker is a container technology: A tool for creating and managing containers.
 - The same container always yields the exact same application and execution behavior ! No matter where  or by who it might be executed.
