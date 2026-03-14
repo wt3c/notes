@@ -76,7 +76,8 @@
            -v "$HOME/PATH:app" \
            -v /app/node_modules feedback-node:volumes
 
-  ```
+      ```
+
 - d
     - Release the terminal.
 - --rm
@@ -225,8 +226,7 @@
             sudo systemctl enable docker
 
             docker version
-
-         ```
+          ```
 
 - #132. Important: Installing Docker on a Virtual Machine
 - #133. Installing docker on Linux in General.
