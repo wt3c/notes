@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05827e8ef4865871",
+        "id": "9d77216fedb6c80d",
         "type": "tabs",
         "children": [
           {
-            "id": "8b6a49b9035de2cf",
+            "id": "2367d2e42d17cad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -174,20 +174,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8b6a49b9035de2cf",
+  "active": "2367d2e42d17cad7",
   "lastOpenFiles": [
-    "Notes/Books/A psicologia financeira.md",
     "Classroom/courses/Docker & Kubernetes The Practical Guide 2024 Edition.md",
+    "Notes/Books/A psicologia financeira.md",
     "DevOPS/kuberntes/kubernetes.md",
     "Notes/Books/OS 10 MELHORES LIVROS SOBRE PROGRAMAÇÃO E ARQUITETURA DE SOFTWARE.md",
     "Notes/Books/Learning to learning.md",

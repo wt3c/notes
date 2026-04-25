@@ -234,7 +234,8 @@
 - #138. From manual deployment to managed services.  
 - #139. Important : **AWS, pricing and ECS**.  
 - #140. Deploying with AWS ECS: A managed docker container service.  
-  
+
+
 # Tips  
   
 - Mounting Docker volumes with Docker Toolbox for Windows  
