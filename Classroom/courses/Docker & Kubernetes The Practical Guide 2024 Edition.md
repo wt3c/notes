@@ -552,7 +552,7 @@ docker build -t feedback-node:dev --build-arg DEFAULT_PORT=8000 .
 
 1. **Container → WWW** — funciona por padrão, sem configuração extra
 2. **Container → Host Machine** — substituir `localhost` por `host.docker.internal`
-3. **Container → Container** — via Docker Networks (containers na mesma network se enxergam pelo nome)
+3. **Container → Container** — via Docker Networks (containers na mesma network enxergam-se pelo nome)
 
 ---
 
