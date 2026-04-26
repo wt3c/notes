@@ -1,9 +1,10 @@
 # Docker & Kubernet
 
-## Section 1: Getting Started
+## Section 1: Getting Started -- Docker & Docker-compose --
 
 - Docker is a container technology: A tool for creating and managing containers.
-- The same container always yields the exact same application and execution behavior ! No matter where or by who it  might be executed.
+- The same container always yields the exact same application and execution behavior ! No matter where or by who it
+  might be executed.
 - commands
     - ```docker build .```
         - Create a new image.
