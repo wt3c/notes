@@ -3,7 +3,7 @@
 ## Section 1: Getting Started
 
 - Docker is a container technology: A tool for creating and managing containers.
-- The same container always yields the exact same application and execution behavior ! No matter where or by who it  
+- The same container always yields the exact same application and execution behavior ! No matter where or by who it
   might be executed.
 - commands
     - ```docker build .```
@@ -75,7 +75,6 @@
            -v feedback:/app/feedback \
            -v "$HOME/PATH:app" \
            -v /app/node_modules feedback-node:volumes
-
       ```
 
 - d
@@ -224,33 +223,28 @@
             sudo servie docker start
             sudo usermod -a -G docker ec2-user
             sudo systemctl enable docker
-<<<<<<< HEAD
-            
             docker version  
         ```
-- #132. Important: Installing Docker on a Virtual Machine  
-- #133. Installing docker on Linux in General.  
-- #134. Pushing our local image to the cloud.  
-- #135. Running publishing the app on EC2.  
-  - Enable app to the world.  
-  - Out bound rules.  
-      - All traffic.  
-  - HTTP enable on EC2.  
-- #136. Managing & updating the container image.  
-- #137. Disadvantages of our current approach.  
-- #138. From manual deployment to managed services.  
-- #139. Important : **AWS, pricing and ECS**.  
-- #140. Deploying with AWS ECS: A managed docker container service.  
 
+- #132. Important: Installing Docker on a Virtual Machine
+- #133. Installing docker on Linux in General.
+- #134. Pushing our local image to the cloud.
+- #135. Running publishing the app on EC2.
+    - Enable app to the world.
+    - Out bound rules.
+        - All traffic.
+    - HTTP enable on EC2.
+- #136. Managing & updating the container image.
+- #137. Disadvantages of our current approach.
+- #138. From manual deployment to managed services.
+- #139. Important : **AWS, pricing and ECS**.
+- #140. Deploying with AWS ECS: A managed docker container service.
 
-# Tips  
-  
-- Mounting Docker volumes with Docker Toolbox for Windows  
-  - https://headsigned.com/posts/mounting-docker-volumes-with-docker-toolbox-for-windows/
-=======
+# Tips
 
-            docker version
-          ```
+- Mounting Docker volumes with Docker Toolbox for Windows
+    - https://headsigned.com/posts/mounting-docker-volumes-with-docker-toolbox-for-windows/
+
 
 - #132. Important: Installing Docker on a Virtual Machine
 - #133. Installing docker on Linux in General.
@@ -270,4 +264,3 @@
 
 - Mounting Docker volumes with Docker Toolbox for Windows
     - <https://headsigned.com/posts/mounting-docker-volumes-with-docker-toolbox-for-windows/>
->>>>>>> 78ad10aca774d43687a69e16fff3fbd3bae92543

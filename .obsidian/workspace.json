@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d77216fedb6c80d",
+        "id": "e3381a17d2460db2",
         "type": "tabs",
         "children": [
           {
-            "id": "2367d2e42d17cad7",
+            "id": "06f8b7d68d00dd31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,10 +184,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2367d2e42d17cad7",
+  "active": "06f8b7d68d00dd31",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Classroom/courses/Aprenda CICD com Gitlab em 4 horas Curso direto ao ponto.md~",
+    "Classroom/courses/Domine Pytest Testes de Software com Python - 2024.md~",
+    "Classroom/courses/Aprenda CICD com Gitlab em 4 horas Curso direto ao ponto.md",
     "Classroom/courses/Docker & Kubernetes The Practical Guide 2024 Edition.md",
+    "Classroom/courses/Docker & Kubernetes The Practical Guide 2024 Edition.md~",
+    "Sem título.md",
     "Notes/Books/A psicologia financeira.md",
     "DevOPS/kuberntes/kubernetes.md",
     "Notes/Books/OS 10 MELHORES LIVROS SOBRE PROGRAMAÇÃO E ARQUITETURA DE SOFTWARE.md",
